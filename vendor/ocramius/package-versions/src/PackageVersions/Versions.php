@@ -73,6 +73,7 @@ final class Versions
   'drupal/masquerade' => '2.0.0-beta3@8.x-2.0-beta3',
   'drupal/menu_block' => '1.6.0@8.x-1.6',
   'drupal/metatag' => '1.13.0@8.x-1.13',
+  'drupal/module_filter' => 'dev-3.x@0ff8b83d04ce0d1cd7cc0437d0c84234cede8cf9',
   'drupal/paragraphs' => '1.11.0@8.x-1.11',
   'drupal/pathauto' => '1.8.0@8.x-1.8',
   'drupal/redirect' => '1.6.0@8.x-1.6',
@@ -219,7 +220,7 @@ final class Versions
   'symfony/phpunit-bridge' => 'v4.4.8@fa585895dccc34afb32b7e7e01761e412ee7a987',
   'theseer/tokenizer' => '1.1.3@11336f6f84e16a720dae9d8e6ed5019efa85a0f9',
   'vanare/behat-cucumber-json-formatter' => 'v1.1.3@b28ae403404be4c74c740a3948d9338fc51443a3',
-  'drupal/drupal' => 'dev-install-modules@8f4c625b249df9986cbc815b374d5f8f55174b1e',
+  'drupal/drupal' => 'dev-install-modules@b882c7b8de73b82c46d7673f14ce44cb8ff35b12',
 );
 
     private function __construct()
